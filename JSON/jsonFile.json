@@ -1,0 +1,10 @@
+{
+  "name": "John",
+  "age": 30,
+  "active": true,
+  "skills": ["Java", "SQL"],
+  "address": {
+    "city": "Delhi",
+    "pincode": 110001
+  }
+}
